@@ -7,7 +7,7 @@ import Aditya from "../../assets/about/aditya.jpeg";
 import anirudha from "../../assets/about/anirudha.jpeg";
 import ayush from "../../assets/about/ayush.jpeg";
 import anvi from "../../assets/about/anvi.jpeg";
-import Ashutosh from "../../assets/about/ashutosh.jpeg";
+import Ashutosh from "../../assets/about/ashutosh1.jpeg";
 
 
 export default function About() {
